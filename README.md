@@ -1,7 +1,7 @@
-# INSE6220 Project
+# INSE 6220 - Advanced Statistical Approaches to Quality
 
-This repo contains the project implementation of my INSE6220 course.<br>
-Project title: Principal Component Analysis and Water Quality Classification using Machine Learning<br>
+The repository contains the project, the components and documentation of the heart disease project.<br>
+Project title: Heart disease analysis and classification using statistics and machine learning<br>
 Author: Bharathwaj Suresh<br>
 Id: 40267496<br>
-Instructor: Professor Dr. Yong Zeng<br>
+Instructor: Dr. Yong Zeng<br>
